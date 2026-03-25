@@ -1,0 +1,29 @@
+{
+  "premises_version": "2026-03-25-md-v2",
+  "ticker": "QSR",
+  "generated_at_utc": "2026-03-25T05:04:54.361165+00:00",
+  "source": "summary_grid_with_montecarlo_distribution",
+  "forecast_days": 252,
+  "current_price": 73.75,
+  "base_case_dcf_price": 87.73893579039863,
+  "bear_price": 69.75294643381923,
+  "base_price": 86.32717285399377,
+  "bull_price": 111.11414841831576,
+  "percentiles": {
+    "p5": 63.95013199099547,
+    "p10": 68.3653936516939,
+    "p25": 76.65850744924131,
+    "p50": 87.80495864053313,
+    "p75": 101.32595810943619,
+    "p90": 116.50033169407351,
+    "p95": 127.2917149681376
+  },
+  "summary_targets": {
+    "base_target_price": 86.32717285399377,
+    "bear_target_price": 69.75294643381923,
+    "bull_target_price": 111.11414841831576,
+    "base_ke": 0.0815
+  },
+  "ke_base": 0.0815,
+  "wacc_base": 0.08001586500000002
+}
